@@ -3,8 +3,9 @@
 SECONDO is an Extensible Database System developed byFernUniversität in Hagen,
 This is just a mirror for the open sources of the SECONDO system.
 
-You can access all source and original document in the following site.
-# http://dna.fernuni-hagen.de/secondo/
+You can access all source and original documents in the following site.
+
+http://dna.fernuni-hagen.de/secondo/
 
 
 ## What is Secondo
