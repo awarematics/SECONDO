@@ -1,6 +1,6 @@
 ## SECONDO source(version 3.4.0)
 
-SECONDO is an Extensible Database System developed byFernUniversität in Hagen,
+SECONDO is an Extensible Database System developed by FernUniversität in Hagen,
 This is just a mirror for the open sources of the SECONDO system.
 
 You can access all source and original documents in the following site.
